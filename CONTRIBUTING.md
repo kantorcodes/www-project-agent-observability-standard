@@ -76,7 +76,6 @@ This guide is based on [github-contributing](https://raw.githubusercontent.com/s
 
 ## Community
 
-- **[GitHub Discussions](https://github.com/OWASP/www-project-agent-observability-standard/discussions)**: Ask questions, share ideas
 - **[Issues](https://github.com/OWASP/www-project-agent-observability-standard/issues)**: Report bugs, request features
 
 We're building the future of AI agent observability. Join us.

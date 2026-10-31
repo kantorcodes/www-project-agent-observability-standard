@@ -27,13 +27,12 @@ The standard covers the following aspects
 ## Getting Started
 
 - 📚 **Explore the Documentation:** Visit the [Documentation Site](https://aos.owasp.org) for a complete overview, the full specification, tutorials, and guides.
-- 📝 **View the Specification:** [Specification](https://github.com/OWASP/www-project-agent-observability-standard/tree/main/specification)
+- 📝 **View the Specification:** [AOS Specification](docs/spec/instrument/specification.md)
 
 ## Contributing
 
 We welcome community contributions to enhance and evolve AOS!
 
-- **Questions & Discussions:** Join our [GitHub Discussions](do we have github enterprise?).
 - **Issues & Feedback:** Report issues or suggest improvements via [GitHub Issues](https://github.com/OWASP/www-project-agent-observability-standard/issues).
 - **Contribution Guide:** See our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
 
@@ -64,4 +63,4 @@ We welcome community contributions to enhance and evolve AOS!
 
 ## About
 
-The AOS is an open-source project under the [Apache License 2.0](LICENSE), and is open to contributions from the community.
+The AOS is an open-source project under the [Apache License 2.0](LICENSE.txt), and is open to contributions from the community.
